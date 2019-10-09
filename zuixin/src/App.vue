@@ -3,6 +3,8 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
+      这是路人甲的登录
+      和注册
     </div>
     <router-view/>
   </div>
